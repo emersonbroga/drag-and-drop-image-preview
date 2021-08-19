@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-# React: Drag and Drop e Preview de Imagens
+# Drag and Drop e Preview de Imagens com React
 
 Mais um projetinho bem bacana para melhorar a usabilidade do seu site.
 Dessa vez eu vou ensinar o Drag and Drop, também conhecido como Arrastar e Soltar
@@ -16,7 +16,7 @@ Espero que gostem!
 
 Esse projeto é parte do video que foi disponibilizado no meu canal do youtube.
 
-[![!React: Drag and Drop e Preview de Imagens](http://i3.ytimg.com/vi/G2LrfXwJIm0/maxresdefault.jpg)](https://www.youtube.com/watch?v=G2LrfXwJIm0)
+[![!Drag and Drop e Preview de Imagens com React](http://i3.ytimg.com/vi/G2LrfXwJIm0/maxresdefault.jpg)](https://www.youtube.com/watch?v=G2LrfXwJIm0)
 
 Esse repositório e o video têm fins educativos.
 
